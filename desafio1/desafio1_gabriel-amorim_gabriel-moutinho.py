@@ -1,4 +1,9 @@
 """
+Autores: Gabriel Antonio Gomes Moutinho
+         Gabriel Henrique Carneiro Amorim
+"""
+
+"""
 Desafio 1: Mapa de características para o Perceptron
 GBC073 — Inteligência Computacional (FACOM/UFU)
 
@@ -13,10 +18,6 @@ Regras:
 Escore: 0 = igual à identidade (baseline), 100 = igual à referência do professor,
 até 125 se superar a referência. Na correção, tarefas OCULTAS da mesma família
 substituem estas — não ajuste para um conjunto de dados específico.
-"""
-"""
-Autores: Gabriel Antonio Gomes Moutinho
-         Gabriel Henrique Carneiro Amorim
 """
 import math
 import time

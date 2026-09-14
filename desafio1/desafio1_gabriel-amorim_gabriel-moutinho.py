@@ -1,6 +1,4 @@
 """
-
-
 Desafio 1: Mapa de características para o Perceptron
 GBC073 — Inteligência Computacional (FACOM/UFU)
 
